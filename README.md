@@ -5,27 +5,49 @@ Current Proposed Structure
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
 Project Root
+
 ├── Assets
+
 │   ├── Scripts
+
 │   │   ├── PlayerController.cs
+
 │   │   ├── ViveTrackerManager.cs
+
 │   │   ├── MinigameManager.cs
+
 │   │   ├── UIManager.cs
+
 │   │   ├── MotionSicknessMitigation.cs
+
 │   │   ├── GameManager.cs
+
 │   ├── Prefabs
+
 │   │   ├── Player.prefab
+
 │   │   ├── ViveTracker.prefab
+
 │   │   ├── Minigames
+
 │   ├── Scenes
+
 │   │   ├── MainMenu.unity
+
 │   │   ├── GameScene.unity
+
 │   │   ├── Minigames
+
 │   ├── Materials
+
 │   ├── Models
+
 │   ├── UI
+
 │   ├── Sounds
+
 ├── Packages
+
 ├── ProjectSettings
 
 
